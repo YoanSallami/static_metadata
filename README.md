@@ -1,2 +1,2 @@
-# static_metadata
-Binding to MangoDB in order to provide additional static data to Underworlds nodes and situations
+# uwds_metadata
+Binding to MangoDB in order to provide additional data to Underworlds nodes and situations
