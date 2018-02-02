@@ -1,0 +1,25 @@
+nodes_metadata :
+  - name : "burger_king"
+
+situations_metadata :
+  - name : "connected(corridor_cross-1,corridor_cross-2)"
+    bigger_shop : "burger_king"
+    left_shops :
+      - "minimani"
+      - "burger_king"
+      - "toto"
+      - "blabla"
+    right_shops :
+      - "toto2"
+      - "blabla2"
+      - "etc"
+      - "etc2"
+
+  - name : "connected(corridor_cross-2,corridor_cross-3)"
+    bigger_shop : "tartine"
+    left_shops :
+      - "toto"
+      - "blabla"
+
+
+
